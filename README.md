@@ -24,6 +24,7 @@ Add your timetable using ```<td>``` tag.
 Execute the program using runserver command.
 
 ## PROGRAM
+![WhatsApp Image 2025-09-21 at 2 25 02 PM](https://github.com/user-attachments/assets/df00bfe8-203b-4cc9-8428-b25b576d8fd0)
 
 
 ## OUTPUT
