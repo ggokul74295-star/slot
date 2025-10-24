@@ -32,9 +32,6 @@ Execute the program using runserver command.
     <title>Slot Timetable</title>
 </head>
 <body>
-    <center><IMG SRC="/static/logo.png" align="center" HEIGHT="110"WIDTH="900">
-    <h2 align="center">Slot Timetable - HEMA D(25015922)</h2>
-    
     
 
     <table bgcolor="cyan" border="1" align="center" height="10" width="40" celspadding="8" celspacing="8" margin-bottom: 20px>
